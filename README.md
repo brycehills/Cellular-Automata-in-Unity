@@ -1,4 +1,4 @@
-# Unity---Conways-Game-of-Life
+# Unity - Cellular Automata
 
 ## Rules for Conways GOL
 - 1 - any live cell with 2 or 3 neighbors survives
