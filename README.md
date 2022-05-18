@@ -13,5 +13,5 @@
 ## Cell
 - stores cell neighbor count and life status
 
-##Example run in Unity:
+## Example run in Unity:
 ![Alt Text](https://github.com/brycehills/Unity---Conways-Game-of-Life/blob/main/Assets/Resources/gol.gif)
