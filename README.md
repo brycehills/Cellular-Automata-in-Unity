@@ -1,2 +1,2 @@
 # Unity---Conways-Game-of-Life
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/brycehills/Unity---Conways-Game-of-Life/tree/main/Assets/Resources/gol.gif)
