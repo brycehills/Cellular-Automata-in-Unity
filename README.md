@@ -1,9 +1,9 @@
 # Unity---Conways-Game-of-Life
 
 ## Rules for Conways GOL
-1 - any live cell with 2 or 3 neighbors survives
-2 - any dead cell with 3 live neighbors becomes a live cell
-3 - all other live cells die in the next generation and all other dead cells stay dead
+- 1 - any live cell with 2 or 3 neighbors survives
+- 2 - any dead cell with 3 live neighbors becomes a live cell
+- 3 - all other live cells die in the next generation and all other dead cells stay dead
 
 ## Game
 - Intializes grid with random live cells
